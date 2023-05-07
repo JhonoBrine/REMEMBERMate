@@ -8,7 +8,7 @@ The said application will be developed by two persons.
 
 Developers
 > Jhon Lorenz E. Pabroa / pabroajhon@gmail.com << You can contact me here.
-> Rey Mar Segalle 
+#  Rey Mar Segalle 
 
 
 Currently, it is still in the works, as I am still learning how to code using Java in Android Studio.
