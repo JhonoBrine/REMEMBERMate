@@ -7,8 +7,7 @@ This application is about a flashcard and reminder built into one.
 >The said application will be developed by two persons.
 
 # Developers
-Jhon Lorenz E. Pabroa / pabroajhon@gmail.com << You can contact me here.
-Rey Mar Segalle 
+Jhon Lorenz E. Pabroa and Rey Mar Segalle 
 
 
 Currently, it is still in the works, as I am still learning how to code using Java in Android Studio.
