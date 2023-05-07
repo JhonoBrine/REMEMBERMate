@@ -12,7 +12,7 @@ My friends or my barkada specifically recommended me to use Flutter. But, I thin
 # Developers
 Jhon Lorenz E. Pabroa and Rey Mar Segalle 
 
-#Features
+# Features
 Customizable Flashcard Decks, Flashcard Organization, Study Modes, Priority Levels, Customizable Settings(?), Widget Support(?), Offline Access, Multi-language support,
 Location - Based Reminders (Optional Feature), Achievements, Reminder / Notifications
 
