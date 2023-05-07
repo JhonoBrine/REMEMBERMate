@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/home_icon"
+        android:id="@+id/home"/>
+
+    <item android:title="Study"
+        android:icon="@drawable/books_icon"
+        android:id="@+id/flashcard"/>
+
+    <item android:title="Reminder"
+        android:icon="@drawable/remind_icon"
+        android:id="@+id/reminder"/>
+
+    <item android:title="Profile"
+        android:icon="@drawable/profile_icon"
+        android:id="@+id/profile"/>
+
+    <item android:title="More"
+        android:icon="@drawable/moreoptions_icon"
+        android:id="@+id/more_option"/>
+</menu>
